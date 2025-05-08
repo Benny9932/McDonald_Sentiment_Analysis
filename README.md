@@ -92,19 +92,6 @@ TF-IDF + SVC consistently outperformed more complex embeddings like Word2Vec and
 
 ---
 
-## 🚀 How to Run
-
-1. Clone this repo  
-2. Install required libraries (`pip install -r requirements.txt`)  
-3. Set up your Google Maps API key in a `.env` file or replace in code  
-4. Run the notebook or scripts to:
-   - Collect data via API (optional)
-   - Load & clean datasets
-   - Train models and evaluate performance
-
-
----
-
 ## ✍️ Author
 
 **Benny Chen**  
