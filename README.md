@@ -6,7 +6,7 @@ This project analyzes customer reviews of McDonald’s locations across the Unit
 
 ## 📌 Project Overview
 
-Using a combination of data collected from the Google Maps API and a Kaggle dataset, this project classifies customer reviews as **positive** or **negative** based on their content. By leveraging NLP techniques and various machine learning models, we identify which approach performs best for binary sentiment classification.
+Using a combination of data collected from Google Maps API and a Kaggle dataset, this project classifies customer reviews as **positive** or **negative** based on their content. By leveraging NLP techniques and various machine learning models, we identify which approach performs best for binary sentiment classification.
 
 ---
 
